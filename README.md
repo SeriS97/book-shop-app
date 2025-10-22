@@ -15,5 +15,3 @@ A modern Book Review platform built using **Next.js**, **React**, **Tailwind CSS
    npm run dev
    ```
 2. Open http://localhost:3000
-
-Made with ❤️ by Quelly Aeriel
